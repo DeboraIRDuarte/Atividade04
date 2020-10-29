@@ -1,0 +1,5 @@
+Tipo da Árvore, Valor de M, Valor de N, Tipo do Valor,Comparações de Chave, Altura, Tempo
+Árvore AVL, 300, 1000, Aleatórios, 18800, 11, 39.0
+Árvore Binária de Busca, 300, 1000, Aleatórios, 20808, 21, 3.0
+Árvore AVL, 300, 1000, Ordenados, 14870, 9, 3.0
+Árvore Binária de Busca, 300, 1000, Ordenados, 773566, 953, 13.0
